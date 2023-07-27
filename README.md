@@ -1,5 +1,5 @@
-#Predicting Binding Affinity of Drug Compounds for BACE1
-##Introduction
+# Predicting Binding Affinity of Drug Compounds for BACE1
+## Introduction
 Alzheimer's disease is a devastating neurodegenerative disorder, and the search for effective treatments is of utmost importance. Beta-secretase 1 (BACE1) is a key enzyme associated with Alzheimer's, making it an attractive target for drug discovery. This project aims to predict the binding affinity of drug compounds for BACE1 using machine learning techniques. By understanding the bioactivity of compounds and identifying potential BACE1 inhibitors, we can pave the way for the development of novel Alzheimer's treatments.
 
 ## Project Overview
